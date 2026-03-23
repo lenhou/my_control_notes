@@ -1,17 +1,12 @@
-.. my_control_notes documentation master file, created by
-   sphinx-quickstart on Mon Mar 23 15:05:31 2026.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+我的控制理論 Python 教學筆記
+============================
 
-my_control_notes documentation
-==============================
+.. 這裡寫的文字才會出現在首頁正中央 ..
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
+歡迎來到我的 Side Project！這份筆記紀錄了 Nise 控制系統工程的學習心得。
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 目錄:
 
+   ch1_modeling
